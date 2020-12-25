@@ -7,4 +7,5 @@
 ## Deployment
 
 ## Outro
-Thank you all 
+Thank you all. 
+Muhammet Gumus
